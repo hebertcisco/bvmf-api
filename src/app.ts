@@ -5,7 +5,6 @@ import compression from 'compression';
 import bodyParser from 'body-parser';
 import morgan from 'morgan';
 
-
 import Routes from './routes';
 
 class App {

@@ -5,6 +5,6 @@ import BVMFRouter from './domain/bvmf/bvmf.routes';
 
 const Routes = Router();
 
-Routes.use('/', DefaultRouter).use('/stocks', BVMFRouter);
+Routes.use('/', DefaultRouter).use('/bvmf', BVMFRouter);
 
 export default Routes;
