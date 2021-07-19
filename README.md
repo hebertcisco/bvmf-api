@@ -27,3 +27,26 @@ npm install
 ```sh
 npm run dev
 ```
+
+## Querying via the API Endpoint
+
+> Curl
+
+```sh
+curl --location --request GET 'https://bvmf-api.vercel.app/stocks/itsa4'
+```
+
+> HTTP
+
+```http
+GET /stocks/itsa4 HTTP/1.1
+Host: bvmf-api.vercel.app
+```
+
+> URL: [https://bvmf-api.vercel.app/stocks/itsa4](bvmf-api.vercel.app/stocks/itsa4)
+
+### Endpoint:
+
+`stocks/[itsa4]`
+
+
