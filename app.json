@@ -1,8 +1,8 @@
 {
-  "name": "vercel-typescript-ddd-api",
+  "name": "bvmf",
   "description": "Vercel Typescript DDD api example",
-  "repository": "https://github.com/hebertcisco/vercel-typescript-ddd-api",
+  "repository": "https://github.com/hebertcisco/bvmf-api",
   "keywords": [
-    "vercel-typescript-ddd-api"
+    "bvmf"
   ]
 }
