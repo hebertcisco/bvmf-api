@@ -11,7 +11,7 @@
 
 ## Installation
 
-> Clone this repository: `git clone https://github.com/hebertcisco/bvmf-apii`
+> Clone this repository: `git clone https://github.com/hebertcisco/bvmf-api`
 
 ### Open the directory and install the dependencies
 
