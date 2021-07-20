@@ -33,20 +33,20 @@ npm run dev
 > Curl
 
 ```sh
-curl --location --request GET 'https://bvmf-api.vercel.app/stocks/itsa4'
+curl --location --request GET 'https://bvmf-api.vercel.app/bvmf/itsa4'
 ```
 
 > HTTP
 
 ```http
-GET /stocks/itsa4 HTTP/1.1
+GET /bvmf/itsa4 HTTP/1.1
 Host: bvmf-api.vercel.app
 ```
 
-> URL: [https://bvmf-api.vercel.app/stocks/itsa4](https://bvmf-api.vercel.app/stocks/itsa4)
+> URL: [https://bvmf-api.vercel.app/bvmf/itsa4](https://bvmf-api.vercel.app/bvmf/itsa4)
 
 ### Endpoint:
 
-`stocks/[itsa4]`
+`bvmf/[itsa4]`
 
 
