@@ -14,7 +14,7 @@ class App {
     this.initialize();
   }
 
-  initialize() {
+  initialize() {a
     this.express = express();
     this.express.use(cors());
     this.express.use(helmet());
