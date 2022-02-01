@@ -1,7 +1,7 @@
 export interface IBOV {
-    ibov_index: string | any;
+  ibov_index?: string;
 }
 export interface IResult {
-    result: IBOV[];
-    next: boolean;
+  result: IBOV[];
+  next: boolean;
 }
