@@ -50,7 +50,7 @@
     "nodemon": "2.0.15",
     "prettier": "1.19.1",
     "sucrase": "3.20.3",
-    "typescript": "3.9.10"
+    "typescript": "4.5.5"
   },
   "description": "Vercel Typescript DDD api example",
   "repository": {
