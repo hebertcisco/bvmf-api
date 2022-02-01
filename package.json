@@ -25,8 +25,8 @@
     "moment": "^2.29.1",
     "morgan": "^1.9.1",
     "node-fetch": "^3.0.0",
-    "remark": "13.0.0",
-    "remark-html": "13.0.2",
+    "remark": "14.0.2",
+    "remark-html": "15.0.1",
     "rimraf": "^3.0.2",
     "slugify": "^1.6.0"
   },
